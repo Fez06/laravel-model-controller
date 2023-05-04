@@ -1,4 +1,10 @@
 @import "~bootstrap/scss/bootstrap";
 
 
+ul {
+    margin: 30px;
 
+    li {
+        border: initial;
+    }
+}
